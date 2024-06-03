@@ -1,18 +1,18 @@
 # Foundations of Web Development
 01. In your own words, why do we use Git?
-    > | ANSWER HERE |
+    > Git allows teams to work together on the same projects. It also allows you as the individual to save your progress and have a jumping point to start from when things go wrong.
 
 02. In the terminal, what is the command `mkdir` used for?
-    > | ANSWER HERE |
+    > This stands for Make Directory and will make a new folder inside the folder you were already in.
 
 03. What is a ***pseudo-class*** and what are some of the most common ones you think you will use?
     > | ANSWER HERE |
 
 04. What is ***specificity*** and how might you use it to your benefit?
-    > | ANSWER HERE |
+    > Specificity is the amount of importance that each class in CSS has. A class with a specificity of 0 1 0 is going to take priority over one with 0 0 1. Specificity also goes as 100/10/1
 
 05. What problems do you think you could run into if you over-utilized the `!important` feature?
-    > | ANSWER HERE |
+    > With more than one things using !important, you end up having a max priority error where two things are fighting for power. 
 
 06. What are the three components that makeup a `CSS` rule? <br> Example:
 
