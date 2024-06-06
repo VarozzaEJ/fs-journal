@@ -37,4 +37,4 @@
     > flex is an unabsolute way to change the way things appear on a page. This is required because people have different sized screens and absolute changes to the way things look might not look good on different sized screens.
 
 11. What `CSS` properties affect the size of a box model?
-    > | ANSWER HERE |
+    > The properties that affect the size of a box model is the padding, margin, width, and height.
