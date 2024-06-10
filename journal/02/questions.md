@@ -9,7 +9,11 @@
 
 03. What are the `SOLID` principles?
 
-    > | ANSWER HERE |
+    > The single-responsibility principle
+    > The open-closed principle
+    > The Liskov substitution priniciple
+    > The interface segregation principle
+    > The dependency inversion principle
 
 04. Given this array: How could you remove the `pineapple`?
 
@@ -17,7 +21,7 @@
     let fruit = ['apple', 'banana', 'pineapple', 'orange', 'strawberry']
     ```
 
-    > | ANSWER HERE |
+    > fruit.splice(2,1)
 
 05. Given these two objects: How could you add each to the others friends arrays?
 
@@ -34,7 +38,8 @@
     }
     ```
 
-    > | ANSWER HERE |
+    > friends.push(you) 
+    > friends.push(them)
 
 06. Give an example of a JavaScript `Conditional`:
 
