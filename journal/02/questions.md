@@ -52,11 +52,11 @@
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
-    > | ANSWER HERE |
+    > You can use breakpoints to stop running your code at a certain point. This lets you see if you're breaking your code before or after the breakpoint.
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
-    > | ANSWER HERE |
+    > Primitive data types hold simple values while reference data types reference to something else which then holds a primitive data type. 
 
 10. Demonstrate a loop that prints the numbers between -100 and 100?
 
