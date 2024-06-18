@@ -1,15 +1,18 @@
 # Application Architecture, MVC Design Pattern
 01. What are the Pillars of Object Oriented Programming (`OOP`)?
   
-  > | ANSWER HERE |
+  > Abstraction
+    Encapsulation
+    Inheritance
+    Polymorphism
 
 02. How does `export` differ from `export default`?
   
-  > | ANSWER HERE |
+  > Export default only allows for one thing getting exported. So if you are only planning on exporting one thing from a file, use export defualt. Export allows you to export multiple different things.
 
 03. What is Encapsulation?
   
-  > | ANSWER HERE |
+  > Encapsulation is a a topic that refers to wrapping a section of code in a class. This allows it to be shielded from all of the other parts of the code. You can do this by making variables private or public.
 
 04. What are some of the benefits of the `Proxy` object that we are using in our structure for applications?
   
