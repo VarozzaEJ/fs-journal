@@ -16,15 +16,15 @@
 
 04. What are some of the benefits of the `Proxy` object that we are using in our structure for applications?
   
-  > | ANSWER HERE |
+  > Proxies are good for security and making sure that some data is not viewable from outside of the hard code. You can't go into the console and view all of the AppState for example.
 
 05. What the difference between a `class` and an instance of a `class`?
   
-  > | ANSWER HERE |
+  > The instance of a class is usually set in the service of a project. It is also called a Singleton. It is a snapshot of a class set so thatway nothing can change the things inside of it. You can only access the blueprint. A regular class is called in the controller of a project and allows you to change the things inside of it.
 
 06. What is a computed Property?
   
-  > | ANSWER HERE |
+  > Computed properties are a way to grab certain data from inside a file as well as outside of it. It also allows you to set a variable as that data to keep your code concise and easily readable. 
 
 07. What is the purpose of the `MVC` pattern?
   
