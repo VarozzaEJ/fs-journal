@@ -1,44 +1,45 @@
 # Understanding Asynchronous Code, and API's
-01. What is the difference between `asynchronous` code and `synchronous` code?
 
-  > | ANSWER HERE |
+1.  What is the difference between `asynchronous` code and `synchronous` code?
 
-02. What is an event listener?
+> Asynchronous code is when things can run on their own without needing other things to run before. Synchronous code requires functions or methods to run beforehand.
 
-  > | ANSWER HERE |
+2.  What is an event listener?
 
-03. What does *REST* stand for, and in simple terms what does it mean??
+> Event listeners listen for something to happen inside of a function and when it does, will trigger another function or event.
 
-  > | ANSWER HERE |
+3.  What does _REST_ stand for, and in simple terms what does it mean??
 
-04. What is a callback / higher order function?
+> Representational State Transfer... This is placing multiple parameters into a function that can allow for varying functions. The parameters placed into the function also get put into a seperate array.
 
-  > | ANSWER HERE |
+4.  What is a callback / higher order function?
 
-05. What is a `promise`? How do you capture an error from a `promise`?
+> A callback function is a function that gets passed into a different function as a parameter. A higher order function is a function that has an argument being passed through it as a parameter.
 
-  > | ANSWER HERE |
+5.  What is a `promise`? How do you capture an error from a `promise`?
 
-06. Name three processes used to make requests over `HTTP`?
+> A promise is an object that will produce a single value sometime in the future. You can capture and use an error from a promise with the catch() function.
 
-  > | ANSWER HERE |
+6.  Name three processes used to make requests over `HTTP`?
 
-07. What does the `API` acronym stand for?
+> GET, POST, PUT, PATCH, and DELETE
 
-  > | ANSWER HERE |
+7.  What does the `API` acronym stand for?
 
-08. What must you do in order to `await` a promise inside of a function?
+> Application Programming Interface
 
-  > | ANSWER HERE |
+8.  What must you do in order to `await` a promise inside of a function?
 
-09. What is the purpose of encapsulation in programming?
+> You have to call the await keyword inside of an Asynchronous function.
 
-  > | ANSWER HERE |
+9.  What is the purpose of encapsulation in programming?
+
+> The purpose of encapsulation is hiding things inside of classes to where unauthroized people cannot access that part of your code.
 
 10. What is `HTTP` response code for a successful request?
 
-  > | ANSWER HERE |
+> The response is 200OK
 
 11. What is a 400 error?
 
-  > | ANSWER HERE |
+> This occurs when a client or browser sends a request to the server but it unsuccessfully does so, leading to the error and failed loading.
