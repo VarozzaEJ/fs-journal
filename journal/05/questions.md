@@ -33,8 +33,8 @@
 
 09. Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 
-  > | ANSWER HERE |
+  > xxx/?tag=winter
 
 10. What is a ***virtual property***?
 
-  > | ANSWER HERE |
+  > A virtual property is a property that is added to a piece of data using something similar to getters in a model. It must be populated after being declared and it must be populated in the controler. They connect one database to another using reference names.
