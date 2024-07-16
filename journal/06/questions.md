@@ -17,7 +17,7 @@
 
 05. What are ***lifecycle hooks***? What are lifecycle hooks used for?
 
-  > | ANSWER HERE |
+  > An example of a lifestyle hook is "OnMounted" which acts in the same way as a constructor, immediately running when an app is loaded.
 
 06. Which component in Vue does the vue-router use to mount pages onto?
 
@@ -29,12 +29,12 @@
 
 08. What is the responsibility of `Services` in our Vue projects?
 
-  > | ANSWER HERE |
+  > Services have the same responsibility as with the regular MVC Pattern. They change data in the appState.
 
 09. What are ***props*** and how are they used? Provide an example
 
-  > | ANSWER HERE |
+  > Props stand for properties. An example of this is...FIXME
 
 10. What is the Vue method used to create watchable objects such as `state` or `AppState`?
 
-  > | ANSWER HERE |
+  > The method is Computed(()=> AppState.XXXX)
