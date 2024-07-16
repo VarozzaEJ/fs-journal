@@ -1,11 +1,11 @@
 # Single Page Applications with Vue
 01. What is the entrypoint of an application?
 
-  > | ANSWER HERE |
+  > The entrypoint of an application is where someone is directed the second they open a site or application.
 
 02. What is the difference between a vue `component` and `page`?
 
-  > | ANSWER HERE |
+  > Components split the defining parts of pages into seperate pieces, making it easier to read and put logic behind. Pages are the main components that display content to the screen.
 
 03. What is ***Component-Based Architecture***?
 
@@ -13,7 +13,7 @@
 
 04. What are the three tags that make up a Vue component?
 
-  > | ANSWER HERE |
+  > The three tags are Script, Template, and Style
 
 05. What are ***lifecycle hooks***? What are lifecycle hooks used for?
 
