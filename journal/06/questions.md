@@ -9,7 +9,7 @@
 
 03. What is ***Component-Based Architecture***?
 
-  > | ANSWER HERE |
+  > Component based architecture is using components to not only make things easier to read but also easier to understand. It allows things to have easily defined purposes in your code. You could view them as building blocks, building on top of another.
 
 04. What are the three tags that make up a Vue component?
 
@@ -21,11 +21,11 @@
 
 06. Which component in Vue does the vue-router use to mount pages onto?
 
-  > | ANSWER HERE |
+  > The Vue Router uses the loadPage function. It does so by string interpolating the name of the page you created inside of the file path.
 
 07. What is the difference between the `AppState` and the state object within a component?
 
-  > | ANSWER HERE |
+  > The state object within a component has a smaller scope: only allowing that component to see a variable declared within that component. On the other hand, the AppState allows for any file to look at variables declared within the AppState.
 
 08. What is the responsibility of `Services` in our Vue projects?
 
@@ -37,4 +37,4 @@
 
 10. What is the Vue method used to create watchable objects such as `state` or `AppState`?
 
-  > The method is Computed(()=> AppState.XXXX)
+  > The method is ref()
