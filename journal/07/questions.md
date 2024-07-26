@@ -10,7 +10,7 @@
 
 3. What are some of the advantages/uses of a `SPA` over a traditional one?
 
-  > | ANSWER HERE |
+  > It is easier to load things because there is less load on the network.
 
 4. What does the `onMounted` method in Vue do?
 
