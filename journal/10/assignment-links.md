@@ -1,5 +1,5 @@
 ## Afternoon Assignment Links
 
-* **[Repo](https://github.com/VarozzaEJ/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/VarozzaEJ/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/VarozzaEJ/<ASSIGNMENT_REPO>)**
+* **[Repo](https://github.com/VarozzaEJ/petworks)**
+* **[Repo](https://github.com/VarozzaEJ/gregslist_dotnet)**
+* **[Repo](https://github.com/VarozzaEJ/chorescore)**
