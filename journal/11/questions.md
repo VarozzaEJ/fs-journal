@@ -5,7 +5,7 @@
 
 2. How does ***member inheritance*** work in C#? Does a `Class` inherit all members of the base `Class`?
 
-  > | ANSWER HERE |
+  > Member inheritance is when a subclass adds all of the data from the main class. It inherits all members except for the main class's constructors.
 
 3. How does ***accessibility*** affect inheritance?
 
@@ -17,7 +17,7 @@
 
 5. What is an ***alias***?
 
-  > | ANSWER HERE |
+  > Aliases allow for unambiguous typing of classes to differentiate between two simalarly typed items. 
 
 6. Demonstrate how you would query a join statement that would get all of a doctors patients from the following collections:
 
